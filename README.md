@@ -19,5 +19,13 @@
 * **Python 3.8+** installed on your system.
 
 To verify your installation:
+  ```bash
+    python --version
+```
+Installation & Setup
+Clone the Repository:
 ```bash
-python --version
+git clone [https://github.com/your-username/anayalazer.git](https://github.com/your-username/anayalazer.git)
+cd anayalazer
+```
+Set Up a Virtual Environment (Optional, Recommended):
