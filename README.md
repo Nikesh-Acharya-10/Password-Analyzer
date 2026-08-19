@@ -29,3 +29,13 @@ git clone [https://github.com/your-username/anayalazer.git](https://github.com/y
 cd anayalazer
 ```
 Set Up a Virtual Environment (Optional, Recommended):
+```bash
+# On macOS/Linux
+python -m venv venv
+source venv/bin/venv/activate
+
+# On Windows
+python -m venv venv
+venv\Scripts\activate
+```
+
