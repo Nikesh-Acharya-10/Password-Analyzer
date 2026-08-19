@@ -38,4 +38,12 @@ source venv/bin/venv/activate
 python -m venv venv
 venv\Scripts\activate
 ```
+Install Dependencies:
+```bash
+pip install -r requirements.txt
+```
+Usage
+Run the script from your terminal:
 
+```Bash
+python main.py
