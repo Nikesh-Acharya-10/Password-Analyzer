@@ -44,6 +44,27 @@ pip install -r requirements.txt
 ```
 Usage
 Run the script from your terminal:
-
 ```Bash
 python main.py
+```
+Example Input/Output
+```
+Input:
+
+Enter password to analyze: P@ssw0rd2026!
+Output:
+
+==================================================
+                 ANAYALAZER REPORT                
+==================================================
+[+] Length:              12 characters (Good)
+[+] Uppercase Letters:   Present (1)
+[+] Lowercase Letters:   Present (6)
+[+] Numbers:             Present (4)
+[+] Special Characters:  Present (2)
+--------------------------------------------------
+Overall Rating:          VERY STRONG
+Estimated Entropy:       ~68.4 bits
+Status:                  Passes standard security policies.
+==================================================
+```
