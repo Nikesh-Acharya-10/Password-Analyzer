@@ -68,3 +68,10 @@ Estimated Entropy:       ~68.4 bits
 Status:                  Passes standard security policies.
 ==================================================
 ```
+Security & Privacy Notice
+Zero Storage: AnayaLazer operates entirely locally on your machine. It does not log, store, or transmit entered passwords anywhere.
+
+Testing Guidance: For testing purposes, avoid using actual active passwords.
+
+License
+Distributed under the MIT License. See LICENSE for more information.
