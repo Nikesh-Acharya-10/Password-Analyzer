@@ -1,0 +1,2 @@
+# Optional dependencies (leave empty if standard library only)
+colorama>=0.4.6
